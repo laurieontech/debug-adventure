@@ -1,0 +1,17 @@
+{
+  "name": "interview-docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gatsby": "^2.24.3",
+    "gatsby-plugin-mdx": "^1.2.26",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
